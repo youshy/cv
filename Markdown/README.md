@@ -2,13 +2,13 @@
 
 ### Contact
 
-Email: **arturkondas@gmail.com**
+Email: [**arturkondas@gmail.com**](mailto:arturkondas@gmail.com?subject=[GitHub]%20Resume)
 
-Linkedin: **linkedin.com/in/arturkondas**
+Linkedin: [**linkedin.com/in/arturkondas**](https://linkedin.com/in/arturkondas)
 
 ## Profile
 
-A Software Engineer generalist with over three years of experience spanning from IT Support to teaching and, most importantly, Software Development. Using Belbin's Team Roles, best described as a combination of Plant and Monitor Evaluator - always full of ideas and unconventional approach to problems, but still being able to see all the options and judge accurately. Willing to learn and improve, but at the same time to teach others and help in finding their own way in tech world.
+A Software Engineer generalist with over three years of experience spanning from IT Support to teaching and Software Development. Using [Belbin's Team Roles](https://www.belbin.com/about/belbin-team-roles/), best described as a combination of Plant and Monitor Evaluator - always full of ideas and unconventional approach to problems, but still being able to see all the options and judge accurately. Willing to learn and improve, but at the same time to teach and help others.
 
 ## Skills
 
@@ -48,12 +48,12 @@ Agile, Scrum, ITIL
 
 *July 2019 - Present*
 
-* Building state-of-the-art, microservices-based, bespoke tools including AI, using Go
+* Building state-of-the-art, microservices-based, bespoke tools using Go, including AI
 * Event-Driven architecture with Kubernetes API
 * Database design, maintenance and management
 * Custom CLIs built with Go
 * Code refactoring
-* Delivering internal trainings
+* Delivering internal training
 
 ---
 
@@ -80,10 +80,10 @@ Agile, Scrum, ITIL
 *September 2018 - January 2019*
 
 * Full Stack, DevOps and Testing trainer
-* Teaching modern JavaScript (ES6/ES8), React, Ruby/Ruby on Rails, PostgreSQL, testing principles, DevOps and Agile methodologies
+* Teaching modern JavaScript (ES6/ES8), React, Ruby/Ruby on Rails, PostgreSQL, ISTQB testing principles, DevOps and Agile methodologies
 * Team/Tech Lead, Product Owner, Scrum Master
 * Writing curriculum, lessons and labs for the students
-* Received a praise from the board for tacking unexpected challenges and helping the company
+* Received praise from the board for tacking unexpected challenges and helping the company
 
 ---
 
@@ -91,8 +91,8 @@ Agile, Scrum, ITIL
 
 *January 2017 - June 2018*
 
-* Designing, building and maintaining Full-Stack apps and API's
-* Working with JavaScript, HTML/CSS, React, Vue, Angular
+* Designing, building and maintaining Full-Stack apps and APIs
+* Working with JavaScript, HTML5/CSS3, React, Vue, Angular 2
 
 ---
 
@@ -161,7 +161,7 @@ Engineering thesis: *Acoustic measurements of electrical engines*
 * **Technical Trainer** - CodeFirst: Girls
   * Delivered two editions of CF:G
 
-## Referees
+## References
 
 References available on request
 
