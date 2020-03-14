@@ -8,7 +8,7 @@ Linkedin: [**linkedin.com/in/arturkondas**](https://linkedin.com/in/arturkondas)
 
 ## Profile
 
-A Software Engineer generalist with over three years of experience spanning from IT Support to teaching and Software Development. Using [Belbin's Team Roles](https://www.belbin.com/about/belbin-team-roles/), best described as a combination of Plant and Monitor Evaluator - always full of ideas and unconventional approach to problems, but still being able to see all the options and judge accurately. Willing to learn and improve, but at the same time to teach and help others.
+A Software Engineer generalist with over three years of experience spanning from IT Support to teaching and Software Development. Using [Belbin's Team Roles](https://www.belbin.com/about/belbin-team-roles/), best described as a combination of Plant and Monitor Evaluator; I'm always full of ideas and unconventional approach to problems, but still being able to see all the options and judge accurately. Willing to learn and improve, but at the same time to teach and help others.
 
 ## Skills
 
@@ -62,7 +62,7 @@ Agile, Scrum, ITIL
 *January 2019 - July 2019*
 
 * NodeJS / Vue Software Engineer
-* Building backend applications for video scrapping, conversion and AI-ready implementation
+* Building backend applications for video scraping, conversion and AI-ready implementation
 * Implementing architecture changes
 * DB management and maintenance
 
