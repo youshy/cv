@@ -14,7 +14,7 @@ A Software Engineer generalist with over three years of experience spanning from
 
 #### Programming Languages
 
-Go (Golang), Javascript, C/C#, Python, Ruby
+Go (Golang, very much preferred), Javascript, C/C#, Python, Ruby
 
 #### Database
 
