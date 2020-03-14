@@ -75,7 +75,7 @@ Agile, Scrum, ITIL
 
 ---
 
-**Sparta Global** / Technical Trainer
+**Sparta Global** / Software Development Technical Trainer
 
 *September 2018 - January 2019*
 
