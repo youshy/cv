@@ -8,7 +8,7 @@ Linkedin: **linkedin.com/in/arturkondas**
 
 ## Profile
 
-A Software Engineer generalist with over three years of experience spanning from IT Support to Database management and, most importantly, Software Development. Using Belbin's Team Roles, best described as a combination of Plant and Monitor Evaluator - always full of ideas and unconventional approach to problems, but still being able to see all the options and judge accurately. Willing to learn and improve, but at the same time to teach others and help in finding their own way in tech world.
+A Software Engineer generalist with over three years of experience spanning from IT Support to teaching and, most importantly, Software Development. Using Belbin's Team Roles, best described as a combination of Plant and Monitor Evaluator - always full of ideas and unconventional approach to problems, but still being able to see all the options and judge accurately. Willing to learn and improve, but at the same time to teach others and help in finding their own way in tech world.
 
 ## Skills
 
