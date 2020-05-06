@@ -22,7 +22,7 @@ PostgreSQL, MongoDB, MySQL dGraph, Neo4J
 
 #### Frameworks/Libraries
 
-React, Vue, Mocha, Chai, Jasmine, ffmpeg
+gRPC, React, Vue, Mocha, Chai, Jasmine, ffmpeg
 
 #### Cloud & Orchestration
 
@@ -153,6 +153,7 @@ Engineering thesis: *Acoustic measurements of electrical engines*
 * **Guest Speaker** - ColorInTech
   * Delivered two workshops on annual ColorInTech events 
 * **Contibutor** - Grafana Labs
+  * Contributed to [7.0.0 beta](https://github.com/grafana/grafana/releases/tag/v7.0.0-beta1) - #22898
 * **Contributor / Translator** - GitHub 
   * Translated [Unshaky](https://github.com/aahung/Unshaky) and [Rectangle](https://github.com/rxhanson/Rectangle) to Polish
 * **Translator** - Microsoft
