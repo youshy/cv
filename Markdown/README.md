@@ -49,6 +49,7 @@ Agile, Scrum, ITIL
 *July 2019 - Present*
 
 * Building state-of-the-art, microservices-based, bespoke tools using Go, including AI
+* Data analysis using Python
 * Event-Driven architecture with Kubernetes API
 * Database design, maintenance and management
 * Custom CLIs built with Go
