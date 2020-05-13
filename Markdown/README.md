@@ -2,6 +2,8 @@
 
 ### Contact
 
+Personal Site: [**akondas.com**](https://akondas.com)
+
 Email: [**arturkondas@gmail.com**](mailto:arturkondas@gmail.com?subject=[GitHub]%20Resume)
 
 Linkedin: [**linkedin.com/in/arturkondas**](https://linkedin.com/in/arturkondas)
