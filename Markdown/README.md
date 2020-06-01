@@ -55,6 +55,7 @@ Agile, Scrum, ITIL
 * Event-Driven architecture with Kubernetes API
 * Database design, maintenance and management
 * Custom CLIs built with Go
+* Consulting other teams on Go projects
 * Code refactoring
 * Delivering internal training
 
@@ -153,10 +154,14 @@ Engineering thesis: *Acoustic measurements of electrical engines*
 
 ## Open Source / Volunteer
 
+* **Speaker** - Devops Playground
+  * Delivered a live-stream workshop on building a ready-to-deploy, CRUD API in Go. Link [here](https://www.youtube.com/watch?v=JpznEfXcoe0&feature=youtu.be)
 * **Guest Speaker** - ColorInTech
   * Delivered two workshops on annual ColorInTech events 
-* **Contibutor** - Grafana Labs
+* **Contributor** - Grafana Labs
   * Contributed to [7.0.0 beta](https://github.com/grafana/grafana/releases/tag/v7.0.0-beta1) - #22898
+* **Contributor** - [Rod](https://github.com/ysmood/rod)
+  * Contributing to overall functionality of a Chrome Devtools driver in Go
 * **Contributor / Translator** - GitHub 
   * Translated [Unshaky](https://github.com/aahung/Unshaky) and [Rectangle](https://github.com/rxhanson/Rectangle) to Polish
 * **Translator** - Microsoft
