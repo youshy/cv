@@ -50,6 +50,7 @@ Agile, Scrum, ITIL
 
 *July 2019 - Present*
 
+* Lead developer in greenfield internal project
 * Building state-of-the-art, microservices-based, bespoke tools using Go, including AI
 * Data analysis using Python
 * Event-Driven architecture with Kubernetes API
@@ -155,7 +156,10 @@ Engineering thesis: *Acoustic measurements of electrical engines*
 ## Open Source / Volunteer
 
 * **Speaker** - Devops Playground
-  * Delivered a live-stream workshop on building a ready-to-deploy, CRUD API in Go. Link [here](https://www.youtube.com/watch?v=JpznEfXcoe0&feature=youtu.be)
+  * Delivered a live-streamed workshop on building a ready-to-deploy, CRUD API in Go. Link [here](https://www.youtube.com/watch?v=JpznEfXcoe0&feature=youtu.be)
+* **Speaker** - Golang in London
+  * Delivered a live-streamed workshop on building small app to play music from the terminal. Link [here](https://www.youtube.com/watch?v=b2o2Of5a05o)
+  * Delivered a live-streamed presentation on how to structure small Go programs. Link [here](https://akondas.com/talks/starters-guide-go/#/)
 * **Guest Speaker** - ColorInTech
   * Delivered two workshops on annual ColorInTech events 
 * **Contributor** - Grafana Labs
