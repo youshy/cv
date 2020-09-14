@@ -12,6 +12,8 @@ Linkedin: [**linkedin.com/in/arturkondas**](https://linkedin.com/in/arturkondas)
 
 A Software Engineer generalist with over three years of experience spanning from IT Support to teaching and Software Development. Using [Belbin's Team Roles](https://www.belbin.com/about/belbin-team-roles/), best described as a combination of Plant and Monitor Evaluator; I'm always full of ideas and unconventional approach to problems, but still being able to see all the options and judge accurately. Willing to learn and improve, but at the same time to teach and help others.
 
+Wrote first ever [music video in Golang](https://www.youtube.com/watch?v=-_-2EpUqb9g)
+
 ## Skills
 
 #### Programming Languages
