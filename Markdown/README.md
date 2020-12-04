@@ -22,7 +22,7 @@ Go (Golang, very much preferred), Javascript, C/C#, Python, Ruby
 
 #### Database
 
-PostgreSQL, MongoDB, MySQL dGraph, Neo4J
+PostgreSQL, MongoDB, MySQL dGraph, Neo4J, AWS Suite (RDS, DynamoDB)
 
 #### Frameworks/Libraries
 
@@ -45,6 +45,12 @@ Git, GitHub, GitLab, BitBucket
 Agile, Scrum, ITIL
 
 ## Employment
+
+**Barclays** (via **ECS Digital**) / Go Software Engineer
+
+*October 2020 - Present*
+
+* Working on serverless-oriented chat solution written in Go
 
 ---
 
@@ -149,6 +155,7 @@ Engineering thesis: *Acoustic measurements of electrical engines*
 
 ## Certfications
 
+* **AWS Certified Developer - Associate** - Amazon - October 2020
 * **.NET advanced** - Comarch - June 2018
 * **Excel Intermediate** - Langolian - November 2017
 * **ITIL Foundation** - Conlea - June 2017
@@ -178,7 +185,7 @@ Engineering thesis: *Acoustic measurements of electrical engines*
 
 ## References
 
-References available on request
+References available on request.
 
 ## Disclaimer
 
