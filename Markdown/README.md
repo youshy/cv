@@ -12,7 +12,7 @@ Linkedin: [**linkedin.com/in/arturkondas**](https://linkedin.com/in/arturkondas)
 
 A Software Engineer generalist with over five years of experience spanning from IT Support to teaching and Software Development. Using [Belbin's Team Roles](https://www.belbin.com/about/belbin-team-roles/), best described as a combination of Plant and Monitor Evaluator; I'm always full of ideas and unconventional approach to problems, but still being able to see all the options and judge accurately. Willing to learn and improve, but at the same time to teach and help others.
 
-Wrote first ever **[music video in Golang](https://www.youtube.com/watch?v=-_-2EpUqb9g)**. SRE Guild lead & evangelist. Go enthusiast, open source contributor and trainer. Advocate for asynchronous teamwork and team morale over sticking to pre-fabricated templates.
+Wrote first ever **[music video in Golang](https://www.youtube.com/watch?v=-_-2EpUqb9g)**. SRE Guild lead & evangelist. Go enthusiast, open source contributor and trainer. Advocate for asynchronous teamwork and team morale over sticking to pre-fabricated templates. I believe in continuous improvement not only in code, always learning something new.
 
 Avid fan of remote working and work based on trust, not on numbers. I get stuff done (to put it mildly).
 
@@ -66,7 +66,7 @@ GitHub Pages, Netlify, Heroku
 * Improving code quality across all products
 * Security & web resilience tweaks
 * Training and leading junior developers
-* Improving AGILE methodologies within the team
+* Improving Agile methodologies within the team
 
 ---
 
