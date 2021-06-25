@@ -26,6 +26,7 @@ Built a set of highly secure and highly available Go AWS lambdas utilising Amazo
 ### AI-powered analysis & data scraping microservices
 
 Designed and built a microservices suite for data scrapping and analysis. Reworked the POC written by a previous team to decrease the time of discovery from 12 hours to 10 minutes.
+Utilised the power of Goroutines to make the solution scalable and asynchronous.
 
 ### AI-powered crime prevention systems
 
