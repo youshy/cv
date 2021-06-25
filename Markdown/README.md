@@ -158,7 +158,7 @@ GitHub Pages, Netlify, Heroku
 
 #### Cracow University of Technology
 
-**Power Engineering** / BE
+**Power Engineering** / BEng
 
 *2013 - 2017*
 
