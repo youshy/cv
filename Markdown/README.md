@@ -51,7 +51,7 @@ Did everything apart from singing - wrote, record, mixed, mastered, planned out,
 If there's something I've been using to help me with my work/daily chores, 99/100 times I wrote an CLI for this. 
 Blogging? Automated. Switching Git accounts? Automated. 
 Creating new repositories without leaving the terminal? Automated.
-Scrapping data to see if the flour I want is available and notifying me over various channels? Automated.
+Scrapping data to see if the flour I want is available and notifying me over various channels? Automated. And calling that package [bready-steady-go](https://github.com/youshy/bready-steady-go)? Done.
 
 ### Post-deployment integration tests
 
