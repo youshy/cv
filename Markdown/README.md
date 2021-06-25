@@ -39,6 +39,14 @@ Wrote first ever **[music video in Golang](https://www.youtube.com/watch?v=-_-2E
 
 If there's something I've been using to help me with my work/daily chores, 99/100 times I wrote an CLI for this. Blogging? Automated. Switching Git accounts? Automated. Scrapping data to see if the flour I want is available and notifying me over various channels? Automated.
 
+### Post-deployment integration tests
+
+Designed a process & tooling system for validating web suite post-deployment. Decreased the time needed from 4 hours to 5 minutes.
+
+### Data-visualisation boards
+
+Harnessing the power of ServiceNOW, built a set of data boards visualising the state of service desk, SLIs and KPIs across different teams - which resulted in massive decrease of backlog and increased the speed of resolution.
+
 ## Employment
 
 **Barclays** (via **ECS Digital**) / Go Software Engineer
