@@ -124,7 +124,7 @@ PostgreSQL, MongoDB, MySQL, dGraph, Neo4J, AWS Suite (RDS, DynamoDB)
 
 #### Frameworks/Libraries
 
-gRPC, React, Vue, Mocha, Chai, Jasmine, ffmpeg
+gRPC, GraphQL, React, Vue, Mocha, Chai, Jasmine, ffmpeg
 
 #### Infrastructure
 
