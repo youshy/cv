@@ -46,6 +46,7 @@ Built and maintained a set of microservices for video data processing and AI int
 Using Google Cloud services, NodeJS and custom ffmpeg wrappers.
 Increased the test coverage across the whole stack by 50%.
 
+### Go-powered music video
 
 Wrote first ever **[music video in Golang](https://www.youtube.com/watch?v=-_-2EpUqb9g)**. 
 Did everything apart from singing - wrote, record, mixed, mastered, planned out, wrote the video, released the video.
