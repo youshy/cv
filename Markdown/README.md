@@ -10,38 +10,55 @@ Linkedin: [**linkedin.com/in/arturkondas**](https://linkedin.com/in/arturkondas)
 
 ## Profile
 
-A Senior Software Engineer generalist with over five years of experience spanning from IT Support to teaching and Software Development. Using [Belbin's Team Roles](https://www.belbin.com/about/belbin-team-roles/), best described as a combination of Plant and Monitor Evaluator; I'm always full of ideas and unconventional approach to problems, but still being able to see all the options and judge accurately. Willing to learn and improve, but at the same time to teach and help others.
+Senior Software Engineer with over five years of experience in software development, consulting and support services. 
+Skilled in automation, tech leadership, agile methodologies, architecture and mentoring.
+Always full of ideas and unconventional approach to problems, but still being able to see all the options and judge accurately. 
+Willing to learn and improve, but at the same time to teach and help others.
 
-Site Reliability Engineering Guild lead & evangelist. Go enthusiast, open source contributor and trainer. Team & tech lead, occasionally an architect. Experienced in DevOps and reliable CI/CD practices.
-Advocate for asynchronous teamwork and team morale over sticking to pre-fabricated templates. I believe in continuous improvement not only in code, always learning something new.
+Site Reliability Engineering Guild lead & evangelist. 
+Go enthusiast, open source contributor and trainer.
+Experienced in DevOps and reliable CI/CD practices.
+Advocate for asynchronous teamwork and team morale over sticking to pre-fabricated templates.
+I believe in continuous improvement not only in code, always learning something new.
 
-Avid fan of remote working and work based on trust, not on numbers. I get stuff done (to put it mildly).
+Avid fan of remote working and work based on trust, not on numbers. 
+I get stuff done (to put it mildly).
 
 ## Projects
 
 ### Asynchronous chat
 
 Built a set of highly secure and highly available Go AWS lambdas utilising Amazon Lex & Connect functionality.
+Fully integrated with DynamoDB, leveraging some of the automation provided by the database;
+configured with AWS Secrets Manager, deployed over AWS Service Catalog.
 
 ### AI-powered analysis & data scraping microservices
 
-Designed and built a microservices suite for data scrapping and analysis. Reworked the POC written by a previous team to decrease the time of discovery from 12 hours to 10 minutes.
+Designed and built a microservices suite for data scrapping and analysis using Go, PostgresDB and graph databases (dGraph, neo4j).
+Reworked the POC written by a previous team to decrease the time of discovery from 12 hours to 10 minutes.
+
 
 ### AI-powered crime prevention systems
 
 Built and maintained a set of microservices for video data processing and AI integration.
+Using Google Cloud services, NodeJS and custom ffmpeg wrappers.
 
 ### Music video in terminal
 
-Wrote first ever **[music video in Golang](https://www.youtube.com/watch?v=-_-2EpUqb9g)**. Did everything apart from singing - wrote, record, mixed, mastered, planned out, wrote the video, released the video.
+Wrote first ever **[music video in Golang](https://www.youtube.com/watch?v=-_-2EpUqb9g)**.
+Did everything apart from singing - wrote, record, mixed, mastered, planned out, wrote the video, released the video.
 
 ### Automated my daily chores in terminal
 
-If there's something I've been using to help me with my work/daily chores, 99/100 times I wrote an CLI for this. Blogging? Automated. Switching Git accounts? Automated. Scrapping data to see if the flour I want is available and notifying me over various channels? Automated.
+If there's something I've been using to help me with my work/daily chores, 99/100 times I wrote an CLI for this.
+Blogging? Automated.
+Switching Git accounts? Automated.
+Scrapping data to see if the flour I want is available and notifying me over various channels? Automated.
 
 ### Post-deployment integration tests
 
-Designed a process & tooling system for validating web suite post-deployment. Decreased the time needed from 4 hours to 5 minutes.
+Designed a process & tooling system for validating web suite post-deployment.
+Decreased the time needed from 4 hours to 5 minutes.
 
 ### Data-visualisation boards
 
