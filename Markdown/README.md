@@ -31,33 +31,35 @@ I get stuff done (to put it mildly).
 Built a set of highly secure and highly available Go AWS lambdas utilising Amazon Lex & Connect functionality.
 Fully integrated with DynamoDB, leveraging some of the automation provided by the database;
 configured with AWS Secrets Manager, deployed over AWS Service Catalog.
+Designed packages to abstract the logic within the packages and expose a simple and well documented API to use by other developers.
 
 ### AI-powered analysis & data scraping microservices
 
 Designed and built a microservices suite for data scrapping and analysis using Go, PostgresDB and graph databases (dGraph, neo4j).
 Reworked the POC written by a previous team to decrease the time of discovery from 12 hours to 10 minutes.
-
+Utilised the power of Goroutines to make the solution scalable and asynchronous.
+Introduced tiered logging to the service to increase observability
 
 ### AI-powered crime prevention systems
 
 Built and maintained a set of microservices for video data processing and AI integration.
 Using Google Cloud services, NodeJS and custom ffmpeg wrappers.
+Increased the test coverage across the whole stack by 50%.
 
-### Music video in terminal
 
-Wrote first ever **[music video in Golang](https://www.youtube.com/watch?v=-_-2EpUqb9g)**.
+Wrote first ever **[music video in Golang](https://www.youtube.com/watch?v=-_-2EpUqb9g)**. 
 Did everything apart from singing - wrote, record, mixed, mastered, planned out, wrote the video, released the video.
 
-### Automated my daily chores in terminal
+### Automated daily chores in terminal
 
-If there's something I've been using to help me with my work/daily chores, 99/100 times I wrote an CLI for this.
-Blogging? Automated.
-Switching Git accounts? Automated.
-Scrapping data to see if the flour I want is available and notifying me over various channels? Automated.
+If there's something I've been using to help me with my work/daily chores, 99/100 times I wrote an CLI for this. 
+Blogging? Automated. Switching Git accounts? Automated. 
+Creating new repositories without leaving the terminal? Automated.
+Scrapping data to see if the flour I want is available and notifying me over various channels? Automated. And calling that package [bready-steady-go](https://github.com/youshy/bready-steady-go)? Done.
 
 ### Post-deployment integration tests
 
-Designed a process & tooling system for validating web suite post-deployment.
+Designed a process & tooling system for validating web suite post-deployment. 
 Decreased the time needed from 4 hours to 5 minutes.
 
 ### Data-visualisation boards
@@ -126,7 +128,7 @@ PostgreSQL, MongoDB, MySQL, dGraph, Neo4J, AWS Suite (RDS, DynamoDB)
 
 #### Frameworks/Libraries
 
-gRPC, React, Vue, Mocha, Chai, Jasmine, ffmpeg
+gRPC, GraphQL, React, Vue, Mocha, Chai, Jasmine, ffmpeg
 
 #### Infrastructure
 
