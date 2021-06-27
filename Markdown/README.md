@@ -10,18 +10,118 @@ Linkedin: [**linkedin.com/in/arturkondas**](https://linkedin.com/in/arturkondas)
 
 ## Profile
 
-A Senior Software Engineer generalist with over five years of experience spanning from IT Support to teaching and Software Development. Using [Belbin's Team Roles](https://www.belbin.com/about/belbin-team-roles/), best described as a combination of Plant and Monitor Evaluator; I'm always full of ideas and unconventional approach to problems, but still being able to see all the options and judge accurately. Willing to learn and improve, but at the same time to teach and help others.
+Senior Software Engineer with over five years of experience in software development, consulting and support services. 
+Skilled in automation, tech leadership, agile methodologies, architecture and mentoring.
+Always full of ideas and unconventional approach to problems, but still being able to see all the options and judge accurately. 
+Willing to learn and improve, but at the same time to teach and help others.
 
-Wrote first ever **[music video in Golang](https://www.youtube.com/watch?v=-_-2EpUqb9g)**. Site Reliability Engineering Guild lead & evangelist. Go enthusiast, open source contributor and trainer. Experienced in DevOps and reliable CI/CD practices.
-Advocate for asynchronous teamwork and team morale over sticking to pre-fabricated templates. I believe in continuous improvement not only in code, always learning something new.
+Site Reliability Engineering Guild lead & evangelist. 
+Go enthusiast, open source contributor and trainer.
+Experienced in DevOps and reliable CI/CD practices.
+Advocate for asynchronous teamwork and team morale over sticking to pre-fabricated templates.
+I believe in continuous improvement not only in code, always learning something new.
 
-Avid fan of remote working and work based on trust, not on numbers. I get stuff done (to put it mildly).
+Avid fan of remote working and work based on trust, not on numbers. 
+I get stuff done (to put it mildly).
+
+## Projects
+
+### Asynchronous chat
+
+Built a set of highly secure and highly available Go AWS lambdas utilising Amazon Lex & Connect functionality.
+Fully integrated with DynamoDB, leveraging some of the automation provided by the database;
+configured with AWS Secrets Manager, deployed over AWS Service Catalog.
+Designed packages to abstract the logic within the packages and expose a simple and well documented API to use by other developers.
+
+### AI-powered analysis & data scraping microservices
+
+Designed and built a microservices suite for data scrapping and analysis using Go, PostgresDB and graph databases (dGraph, neo4j).
+Reworked the POC written by a previous team to decrease the time of discovery from 12 hours to 10 minutes.
+Utilised the power of Goroutines to make the solution scalable and asynchronous.
+Introduced tiered logging to the service to increase observability
+
+### AI-powered crime prevention systems
+
+Built and maintained a set of microservices for video data processing and AI integration.
+Using Google Cloud services, NodeJS and custom ffmpeg wrappers.
+Increased the test coverage across the whole stack by 50%.
+
+### Go-powered music video
+
+Wrote first ever **[music video in Golang](https://www.youtube.com/watch?v=-_-2EpUqb9g)**. 
+Did everything apart from singing - wrote, record, mixed, mastered, planned out, wrote the video, released the video.
+
+### Automated daily chores in terminal
+
+If there's something I've been using to help me with my work/daily chores, 99/100 times I wrote an CLI for this. 
+Blogging? Automated. Switching Git accounts? Automated. 
+Creating new repositories without leaving the terminal? Automated.
+Scrapping data to see if the flour I want is available and notifying me over various channels? Automated. And calling that package [bready-steady-go](https://github.com/youshy/bready-steady-go)? Done.
+
+### Post-deployment integration tests
+
+Designed a process & tooling system for validating web suite post-deployment. 
+Decreased the time needed from 4 hours to 5 minutes.
+
+### Data-visualisation boards
+
+Harnessing the power of ServiceNOW, built a set of data boards visualising the state of service desk, SLIs and KPIs across different teams - which resulted in massive decrease of backlog and increased the speed of resolution.
+
+## Employment
+
+**Barclays** (via **ECS Digital**) / Go Software Engineer
+
+*October 2020 - Present*
+
+---
+
+**ECS Digital** / Go Software Engineer
+
+*July 2019 - Present*
+
+---
+
+**Calipsa** / Full Stack Software Engineer
+
+*January 2019 - July 2019*
+
+/ Scrum Master
+
+*March 2019 - July 2019*
+
+---
+
+**Sparta Global** / Software Development Technical Trainer
+
+*September 2018 - January 2019*
+
+---
+
+**Freelance** / Full-Stack Developer
+
+*January 2017 - June 2018*
+
+---
+
+**ABB** / Application Specialist
+
+*January 2018 - June 2018*
+
+/ IT Support Specialist
+
+*March 2017 - December 2017*
+
+---
+
+**Capgemini** / English Customer Service Advisor
+
+*August 2016 - February 2017*
 
 ## Skills
 
 #### Programming Languages
 
-Go (Golang, very much preferred), Javascript, C/C#/C++, Python, Ruby
+Go (Golang, very much preferred), Rust, Python, Javascript/NodeJS, C/C#/C++
 
 #### Database
 
@@ -29,7 +129,7 @@ PostgreSQL, MongoDB, MySQL, dGraph, Neo4J, AWS Suite (RDS, DynamoDB)
 
 #### Frameworks/Libraries
 
-gRPC, React, Vue, Mocha, Chai, Jasmine, ffmpeg
+gRPC, GraphQL, React, Vue, Mocha, Chai, Jasmine, ffmpeg
 
 #### Infrastructure
 
@@ -54,106 +154,6 @@ Agile, Scrum, ITIL
 #### Automatic/Static Deployment tools
 
 GitHub Pages, Netlify, Heroku
-
-## Employment
-
-**Barclays** (via **ECS Digital**) / Go Software Engineer
-
-*October 2020 - Present*
-
-* Lead Go developer in team introducing asynchronous chat leveraging AWS Lex & Connect services
-* Designing lambda's architecture to adhere with business needs
-* Designing and improving Connect flows
-* Improving code quality across all products
-* Security & web resilience tweaks
-* Training and leading junior developers
-* Improving Agile methodologies within the team
-
----
-
-**ECS Digital** / Go Software Engineer
-
-*July 2019 - Present*
-
-* Lead Go developer in greenfield internal project
-* Building state-of-the-art, microservices-based, bespoke tools using Go, including AI
-* Data analysis using Python
-* Event-Driven architecture with Kubernetes API
-* Database design, maintenance and management
-* Custom CLIs built with Go
-* Consulting other teams on Go projects
-* Code refactoring
-* Delivering internal training
-
----
-
-**Calipsa** / Full Stack Software Engineer
-
-*January 2019 - July 2019*
-
-* NodeJS / Vue Software Engineer
-* Building backend applications for video scraping, conversion and AI-ready implementation
-* Implementing architecture changes
-* DB management and maintenance
-
-/ Scrum Master
-
-*March 2019 - July 2019*
-
-* Project and team-workload management
-* Implemented and lead Agile ceremonies
-
----
-
-**Sparta Global** / Software Development Technical Trainer
-
-*September 2018 - January 2019*
-
-* Full Stack, DevOps and Testing trainer
-* Teaching modern JavaScript (ES6/ES8), React, Ruby/Ruby on Rails, PostgreSQL, ISTQB testing principles, DevOps and Agile methodologies
-* Team/Tech Lead, Product Owner, Scrum Master
-* Writing curriculum, lessons and labs for the students
-* Received praise from the board for tacking unexpected challenges and helping the company
-
----
-
-**Freelance** / Full-Stack Developer
-
-*January 2017 - June 2018*
-
-* Designing, building and maintaining Full-Stack apps and APIs
-* Working with JavaScript, HTML5/CSS3, React, Vue, Angular 2
-
----
-
-**ABB** / Application Specialist
-
-*January 2018 - June 2018*
-
-* Level 3 Application Specialist
-* CMS, MSSQL and JavaScript code maintenance
-* Building custom applications for deployment testing
-* HTML/CSS, XML parsing
-* Documentation maintenance
-* Release automation and checks
-
-/ IT Support Specialist
-
-*March 2017 - December 2017*
-
-* Level 2 Support Specialist
-* Incident management, coordination with response teams, bug fixing
-* DB maintenance, XML/JSON debugging
-
----
-
-**Capgemini** / English Customer Service Advisor
-
-*August 2016 - February 2017*
-
-* First line technical support
-* KPI/SLA management
-* OOH Incident management
 
 ## Education
 

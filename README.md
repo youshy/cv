@@ -6,12 +6,15 @@ My resume repo.
 
 * Markdown
 
-## ToDo
-
-* LaTeX
-
 ## FAQ
 
 * How to generate pdf from markdown?
 
-> pandoc README.md --to=pdf -t latex -o cv.pdf --pdf-engine=/Library/Tex/texbin/pdflatex -V geometry:margin=2cm
+> Below setup is tailored for Mac and this repo only.
+
+```bash
+brew install pandoc basictex
+
+pandoc README.md --to=pdf -t latex -o cv.pdf --pdf-engine=/Library/Tex/texbin/pdflatex -V geometry:"top=1cm, bottom=0cm, left=1cm, right=1cm"
+```
+
