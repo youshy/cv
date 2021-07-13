@@ -31,12 +31,14 @@ I get stuff done (to put it mildly).
 Built a set of highly secure and highly available Go AWS lambdas utilising Amazon Lex & Connect functionality.
 Fully integrated with DynamoDB, leveraging some of the automation provided by the database;
 configured with AWS Secrets Manager, deployed over AWS Service Catalog.
-Designed packages to abstract the logic within the packages and expose a simple and well documented API to use by other developers.
+Designed packages to abstract the logic within the lambdas and expose a simple and well documented API.
+Designed the architecture for multiple stacks and maintaned the releases within multiple projects.
 
 ### AI-powered analysis & data scraping microservices
 
-Designed and built a microservices suite for data scrapping and analysis using Go, PostgresDB and graph databases (dGraph, neo4j).
+Designed and built a microservices suite for data scrapping and analysis using Go, Python, PostgresDB and graph databases (dGraph, neo4j).
 Reworked the POC written by a previous team to decrease the time of discovery from 12 hours to 10 minutes.
+Reworked the architecture from previous monolyth solution into a fully orchestrated microservices suite with multiple interfaces for various programming languages.
 Utilised the power of Goroutines to make the solution scalable and asynchronous.
 Introduced tiered logging to the service to increase observability
 
@@ -44,6 +46,8 @@ Introduced tiered logging to the service to increase observability
 
 Built and maintained a set of microservices for video data processing and AI integration.
 Using Google Cloud services, NodeJS and custom ffmpeg wrappers.
+Refactored the database queries to increase speed of retrieving the data.
+Improved the code quality and readability within the whole stack.
 Increased the test coverage across the whole stack by 50%.
 
 ### Go-powered music video
@@ -121,7 +125,7 @@ Harnessing the power of ServiceNOW, built a set of data boards visualising the s
 
 #### Programming Languages
 
-Go (Golang, very much preferred), Rust, Python, Javascript/NodeJS, C/C#/C++
+Go/Golang, very much preferred), Rust, Python, Javascript/NodeJS, C/C#/C++
 
 #### Database
 
@@ -129,7 +133,7 @@ PostgreSQL, MongoDB, MySQL, dGraph, Neo4J, AWS Suite (RDS, DynamoDB)
 
 #### Frameworks/Libraries
 
-gRPC, GraphQL, React, Vue, Mocha, Chai, Jasmine, ffmpeg
+gRPC, GraphQL, ffmpeg
 
 #### Infrastructure
 
