@@ -178,6 +178,8 @@ Engineering thesis: *Acoustic measurements of electrical engines*
 
 ## Certfications
 
+* **Gremlin Chaos Engineering Practicioner** - Gremlin - July 2021
+* **Certified Kubernetes Application Developer** - The Linux Foundation - July 2021
 * **Site Reliability Engineering Foundation** - DevOps Institute - May 2021
 * **AWS Certified Database - Specialty** - Amazon - March 2021
 * **Mulesoft Certified Developer** - Mulesoft - January 2021
