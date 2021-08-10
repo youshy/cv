@@ -125,7 +125,7 @@ Harnessing the power of ServiceNOW, built a set of data boards visualising the s
 
 #### Programming Languages
 
-Go/Golang, very much preferred), Rust, Python, Javascript/NodeJS, C/C#/C++
+Go/Golang, Rust, Python, Javascript/NodeJS, C/C#/C++
 
 #### Database
 
