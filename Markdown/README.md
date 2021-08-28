@@ -24,6 +24,8 @@ I believe in continuous improvement not only in code, always learning something 
 Avid fan of remote working and work based on trust, not on numbers. 
 I get stuff done (to put it mildly).
 
+Outside of work - music producer, guitarist, amateur bread maker and electronics afficionado.
+
 ## Projects
 
 ### Asynchronous chat
@@ -184,34 +186,30 @@ Engineering thesis: *Acoustic measurements of electrical engines*
 * **AWS Certified Database - Specialty** - Amazon - March 2021
 * **Mulesoft Certified Developer** - Mulesoft - January 2021
 * **AWS Certified Developer - Associate** - Amazon - October 2020
-* **.NET advanced** - Comarch - June 2018
-* **Excel Intermediate** - Langolian - November 2017
 * **ITIL Foundation** - Conlea - June 2017
-* **Oracle SQL Introduction** - Langolian - April 2017
-* **AutoCAD 2015 Intermediate** - Cadsoft - June 2015
 
 ## Open Source / Volunteer
 
 * **Speaker** - Devops Playground
-  * Delivered a live-streamed workshop on building a ready-to-deploy, CRUD API in Go. Link [here](https://www.youtube.com/watch?v=JpznEfXcoe0&feature=youtu.be)
+  * Delivered a live-streamed workshop on building a ready-to-deploy, CRUD API in Go. Link [here](https://www.youtube.com/watch?v=JpznEfXcoe0&feature=youtu.be).
 * **Speaker** - Golang in London
-  * Delivered a live-streamed workshop on building small app to play music from the terminal. Link [here](https://www.youtube.com/watch?v=b2o2Of5a05o)
-  * Delivered a live-streamed presentation on how to structure small Go programs. Link [here](https://akondas.com/talks/starters-guide-go/#/)
+  * Delivered a live-streamed workshop on building small app to play music from the terminal. Link [here](https://www.youtube.com/watch?v=b2o2Of5a05o).
+  * Delivered a live-streamed presentation on how to structure small Go programs. Link [here](https://akondas.com/talks/starters-guide-go/#/).
 * **Guest Speaker** - ColorInTech
-  * Delivered two workshops on annual ColorInTech events 
+  * Delivered two workshops on annual ColorInTech events .
 * **Contributor** - Chef
   * Contributed to [5.2.0](https://github.com/sous-chefs/golang/releases/tag/5.2.0) - #95
 * **Contributor** - Grafana Labs
   * Contributed to [7.0.0 beta](https://github.com/grafana/grafana/releases/tag/v7.0.0-beta1) - #22898
 * **Contributor** - [Rod](https://github.com/ysmood/rod)
-  * Contributing to overall functionality of a Chrome Devtools driver in Go
+  * Contributing to overall functionality of a Chrome Devtools driver in Go.
 * **Contributor / Translator** - GitHub 
-  * Translated [Unshaky](https://github.com/aahung/Unshaky) and [Rectangle](https://github.com/rxhanson/Rectangle) to Polish
+  * Translated [Unshaky](https://github.com/aahung/Unshaky) and [Rectangle](https://github.com/rxhanson/Rectangle) to Polish.
 * **Translator** - Microsoft
-  * Contributed to VS Code translation to Polish
+  * Contributed to VS Code translation to Polish.
 * **Technical Trainer** - Codebar
 * **Technical Trainer** - CodeFirst: Girls
-  * Delivered two editions of CF:G
+  * Delivered two editions of CF:G.
 
 ## References
 
