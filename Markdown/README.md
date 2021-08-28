@@ -161,22 +161,6 @@ Agile, Scrum, ITIL
 
 GitHub Pages, Netlify, Heroku
 
-## Education
-
-#### Cracow University of Technology
-
-**Power Engineering** / BEng
-
-*2013 - 2017*
-
-Engineering thesis: *Acoustic measurements of electrical engines*
-
-## Languages
-
-* Polish (Native)
-* English (Fluent)
-* Spanish (Basic)
-
 ## Certfications
 
 * **Gremlin Chaos Engineering Practicioner** - Gremlin - July 2021
@@ -210,12 +194,18 @@ Engineering thesis: *Acoustic measurements of electrical engines*
 * **Technical Trainer** - CodeFirst: Girls
   * Delivered two editions of CF:G.
 
-## References
+## Education
 
-References available on request.
+#### Cracow University of Technology
 
-## Disclaimer
+**Power Engineering** / BEng
 
-Please contact over email prior to phone call, I am not picking up unsolicited calls.
+*2013 - 2017*
 
- > I hereby give consent for my personal data included in my offer to be processed for the purposes of recruitment in accordance with the Data Protection Act as of 29 August 1997 (Journal of Acts of 2002, No 101, pos. 926 with later amendments)
+Engineering thesis: *Acoustic measurements of electrical engines*
+
+## Languages
+
+* Polish (Native)
+* English (Fluent)
+* Spanish (Basic)
