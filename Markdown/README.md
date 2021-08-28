@@ -176,7 +176,6 @@ Engineering thesis: *Acoustic measurements of electrical engines*
 * Polish (Native)
 * English (Fluent)
 * Spanish (Basic)
-* French (Basic)
 
 ## Certfications
 
