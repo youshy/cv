@@ -25,59 +25,21 @@ Avid fan of remote working and work based on trust, not on numbers.
 I get stuff done (to put it mildly).
 
 Outside of work - music producer, guitarist, amateur bread maker and electronics afficionado.
-
-## Projects
-
-### Asynchronous chat
-
-Built a set of highly secure and highly available Go AWS lambdas utilising Amazon Lex & Connect functionality.
-Fully integrated with DynamoDB, leveraging some of the automation provided by the database;
-configured with AWS Secrets Manager, deployed over AWS Service Catalog.
-Designed packages to abstract the logic within the lambdas and expose a simple and well documented API.
-Designed the architecture for multiple stacks and maintaned the releases within multiple projects.
-
-### AI-powered analysis & data scraping microservices
-
-Designed and built a microservices suite for data scrapping and analysis using Go, Python, PostgresDB and graph databases (dGraph, neo4j).
-Reworked the POC written by a previous team to decrease the time of discovery from 12 hours to 10 minutes.
-Reworked the architecture from previous monolyth solution into a fully orchestrated microservices suite with multiple interfaces for various programming languages.
-Utilised the power of Goroutines to make the solution scalable and asynchronous.
-Introduced tiered logging to the service to increase observability
-
-### AI-powered crime prevention systems
-
-Built and maintained a set of microservices for video data processing and AI integration.
-Using Google Cloud services, NodeJS and custom ffmpeg wrappers.
-Refactored the database queries to increase speed of retrieving the data.
-Improved the code quality and readability within the whole stack.
-Increased the test coverage across the whole stack by 50%.
-
-### Go-powered music video
-
-Wrote first ever **[music video in Golang](https://www.youtube.com/watch?v=-_-2EpUqb9g)**. 
-Did everything apart from singing - wrote, record, mixed, mastered, planned out, wrote the video, released the video.
-
-### Automated daily chores in terminal
-
-If there's something I've been using to help me with my work/daily chores, 99/100 times I wrote an CLI for this. 
-Blogging? Automated. Switching Git accounts? Automated. 
-Creating new repositories without leaving the terminal? Automated.
-Scrapping data to see if the flour I want is available and notifying me over various channels? Automated. And calling that package [bready-steady-go](https://github.com/youshy/bready-steady-go)? Done.
-
-### Post-deployment integration tests
-
-Designed a process & tooling system for validating web suite post-deployment. 
-Decreased the time needed from 4 hours to 5 minutes.
-
-### Data-visualisation boards
-
-Harnessing the power of ServiceNOW, built a set of data boards visualising the state of service desk, SLIs and KPIs across different teams - which resulted in massive decrease of backlog and increased the speed of resolution.
+Also I wrote first ever **[music video in Golang](https://www.youtube.com/watch?v=-_-2EpUqb9g)**. 
 
 ## Employment
 
 **Barclays** (via **ECS Digital**) / Go Software Engineer
 
-*October 2020 - Present*
+*October 2020 - September 2021*
+
+* Built a set of highly secure **Go AWS lambdas** utilising **Amazon Lex & Connect** functionality ensuring **high availablity** to **9.4 million customers**.
+* **Lead developer** and a Key member of a team that scaled up availabiltiy **from 0 to up to 70k chat conversations per day** in **2 weeks time**.
+* Fully integrated with **DynamoDB**, leveraging some of the automation provided by the database, configured with **AWS Secrets Manager**, deployed over **AWS Service Catalog**.
+* Helped refactoring existing services to **decrease spending** on **AWS** services.
+* Designed packages to abstract the logic within the lambdas and expose a simple and well documented API.
+* Designed the architecture for multiple stacks and maintaned the releases within multiple projects.
+* Helped onboarding **multiple new joiners** and trained them in using **Go and AWS** services.
 
 ---
 
@@ -85,15 +47,33 @@ Harnessing the power of ServiceNOW, built a set of data boards visualising the s
 
 *July 2019 - Present*
 
+* Designed and built a **microservices suite** for data scrapping and analysis using **Go, Python, PostgresDB and graph databases (dGraph, neo4j)**.
+* Services were designed to work in tandem with **AI-powered analysis suite**.
+* Reworked the POC written by a previous team to **decrease the time** of discovery from **12 hours to 10 minutes**.
+* Reworked the architecture from previous monolyth solution into a **fully orchestrated microservices suite** with multiple interfaces for various programming languages.
+* Utilised the power of **Goroutines** to make the solution **scalable and asynchronous**.
+* Introduced tiered logging to the service to increase observability.
+* Leader of **SRE Guild** in the company.
+* **Mentor and upskill** a lot of new joiners in the company.
+
 ---
 
 **Calipsa** / Full Stack Software Engineer
 
 *January 2019 - July 2019*
 
+* Built and maintained a set of **microservices for video data processing and AI integration**.
+* Using **Google Cloud** services, **NodeJS** and **custom ffmpeg** wrappers.
+* Refactored the database queries to **increase speed** of retrieving the data.
+* Improved the **code quality** and **readability** within the whole stack.
+* Increased the **test coverage** across the whole stack by **50%**.
+
 / Scrum Master
 
 *March 2019 - July 2019*
+
+* Introduced **Scrum and Agile** workflow and mentality in the company.
+* Made first steps in building **asynchronous communication** mindset across teams.
 
 ---
 
@@ -101,11 +81,10 @@ Harnessing the power of ServiceNOW, built a set of data boards visualising the s
 
 *September 2018 - January 2019*
 
----
-
-**Freelance** / Full-Stack Developer
-
-*January 2017 - June 2018*
+* Trained three cohorts of students working currently in **UK Home Office, Three Mobile** or **UK Ministry of Justice**.
+* Taught **web development**, **backend programming** using **Java, Ruby, Python** and **C#**.
+* **Mentored and managed** students to help them achieve their true potential.
+* **Recognized by the board** for willigness and skill for tacking unexpected challenges.
 
 ---
 
@@ -113,9 +92,16 @@ Harnessing the power of ServiceNOW, built a set of data boards visualising the s
 
 *January 2018 - June 2018*
 
+* Designed a process & tooling system for **validating web suite** post-deployment. Decreased the time needed **from 4 hours to 5 minutes**.
+* Application specialist working on **globally available** web suite presenting ABB tools, systems and parts.
+* Managed wordpress, various CMS and **SQL databases**
+
 / IT Support Specialist
 
 *March 2017 - December 2017*
+
+* Harnessing the power of **ServiceNOW**, built a set of data boards visualising the state of service desk, **SLIs and KPIs** across different teams - which resulted in massive **decrease of backlog** and **increased the speed of resolution**.
+* Member of internal project audit that processed entire applications' move from Poland to India, including knowledge and staff training.
 
 ---
 
@@ -163,13 +149,13 @@ GitHub Pages, Netlify, Heroku
 
 ## Certfications
 
-* **Gremlin Chaos Engineering Practicioner** - Gremlin - July 2021
-* **Certified Kubernetes Application Developer** - The Linux Foundation - July 2021
+* [**Gremlin Chaos Engineering Practicioner**](https://www.credential.net/56e13180-8fcc-4eb1-897f-f8f43a0f5a44#gs.a9u5ow) - Gremlin - July 2021
+* [**Certified Kubernetes Application Developer**](https://www.credly.com/badges/2dc11568-4c15-4610-8912-17d037418304?source=linked_in_profile) - The Linux Foundation - July 2021
 * **Site Reliability Engineering Foundation** - DevOps Institute - May 2021
-* **AWS Certified Database - Specialty** - Amazon - March 2021
+* [**AWS Certified Database - Specialty**](https://www.credly.com/badges/ea645df4-d77b-48c6-8e85-421019b7a8b9?source=linked_in_profile) - Amazon - March 2021
 * **Mulesoft Certified Developer** - Mulesoft - January 2021
-* **AWS Certified Developer - Associate** - Amazon - October 2020
-* **ITIL Foundation** - Conlea - June 2017
+* [**AWS Certified Developer - Associate**](https://www.credly.com/badges/25efac9e-2738-490c-819f-a5c1b8e666cc?source=linked_in_profile) - Amazon - October 2020
+* [**ITIL Foundation**](https://candidate.peoplecert.org/ReportsLink.aspx?argType=1&id=B12FFEC9C5673EA26D6735D1368E40B743E8F935F6197FD90CBBA25FA073B912627ACFD94CE8C0C1) - Conlea - June 2017
 
 ## Open Source / Volunteer
 
@@ -203,9 +189,3 @@ GitHub Pages, Netlify, Heroku
 *2013 - 2017*
 
 Engineering thesis: *Acoustic measurements of electrical engines*
-
-## Languages
-
-* Polish (Native)
-* English (Fluent)
-* Spanish (Basic)
