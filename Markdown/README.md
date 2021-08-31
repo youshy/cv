@@ -31,7 +31,7 @@ Also I wrote first ever **[music video in Golang](https://www.youtube.com/watch?
 
 **Barclays** (via **ECS Digital**) / Go Software Engineer
 
-*October 2020 - Present*
+*October 2020 - September 2021*
 
 * Built a set of highly secure **Go AWS lambdas** utilising **Amazon Lex & Connect** functionality ensuring **high availablity** to **9.4 million customers**.
 * **Lead developer** and a Key member of a team that scaled up availabiltiy **from 0 to up to 70k chat conversations per day** in **2 weeks time**.
@@ -53,6 +53,7 @@ Also I wrote first ever **[music video in Golang](https://www.youtube.com/watch?
 * Reworked the architecture from previous monolyth solution into a **fully orchestrated microservices suite** with multiple interfaces for various programming languages.
 * Utilised the power of **Goroutines** to make the solution **scalable and asynchronous**.
 * Introduced tiered logging to the service to increase observability.
+* Leader of **SRE Guild** in the company.
 * **Mentor and upskill** a lot of new joiners in the company.
 
 ---
@@ -188,9 +189,3 @@ GitHub Pages, Netlify, Heroku
 *2013 - 2017*
 
 Engineering thesis: *Acoustic measurements of electrical engines*
-
-## Languages
-
-* Polish (Native)
-* English (Fluent)
-* Spanish (Basic)
