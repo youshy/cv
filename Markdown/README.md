@@ -15,7 +15,7 @@ Skilled in automation, tech leadership, agile methodologies, architecture and me
 Always full of ideas and unconventional approach to problems, but still being able to see all the options and judge accurately. 
 Willing to learn and improve, but at the same time to teach and help others.
 
-Site Reliability Engineering Guild lead & evangelist. 
+Site Reliability Engineering Guild co-founder, lead & evangelist. 
 Go enthusiast, open source contributor and trainer.
 Experienced in DevOps and reliable CI/CD practices.
 Advocate for asynchronous teamwork and team morale over sticking to pre-fabricated templates.
@@ -36,7 +36,8 @@ Also I wrote first ever **[music video in Golang](https://www.youtube.com/watch?
 * Built a set of highly secure **Go AWS lambdas** utilising **Amazon Lex & Connect** functionality ensuring **high availablity** to **9.4 million customers**.
 * **Lead developer** and a Key member of a team that scaled up availabiltiy **from 0 to up to 70k chat conversations per day** in **2 weeks time**.
 * Fully integrated with **DynamoDB**, leveraging some of the automation provided by the database, configured with **AWS Secrets Manager**, deployed over **AWS Service Catalog**.
-* Helped refactoring existing services to **decrease spending** on **AWS** services.
+* Helped refactoring existing lambdas and services to **decrease spending by 40%** on **AWS**.
+* Introduced **Sonarqube** across the Go stack to increase 
 * Designed packages to abstract the logic within the lambdas and expose a simple and well documented API.
 * Designed the architecture for multiple stacks and maintaned the releases within multiple projects.
 * Helped onboarding **multiple new joiners** and trained them in using **Go and AWS** services.
