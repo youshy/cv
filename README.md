@@ -13,7 +13,7 @@ My resume repo.
 > Below setup is tailored for Mac and this repo only.
 
 ```bash
-brew install pandoc basictex
+brew install pandoc mactex
 
 pandoc README.md --to=pdf -t latex -o cv.pdf --pdf-engine=/Library/Tex/texbin/pdflatex -V geometry:"top=1cm, bottom=0cm, left=1cm, right=1cm"
 ```
