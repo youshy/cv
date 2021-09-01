@@ -15,6 +15,6 @@ My resume repo.
 ```bash
 brew install pandoc mactex
 
-pandoc README.md --to=pdf -t latex -o cv.pdf --pdf-engine=/Library/Tex/texbin/pdflatex -V geometry:"top=1cm, bottom=0cm, left=1cm, right=1cm"
+pandoc README.md --to=pdf -t latex -o cv.pdf --pdf-engine=/Library/Tex/texbin/pdflatex -V geometry:"top=1cm, bottom=0cm, left=1cm, right=1cm" -V colorlinks=true -V linkcolor=blue
 ```
 
