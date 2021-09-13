@@ -114,7 +114,7 @@ Also I wrote first ever **[music video in Golang](https://www.youtube.com/watch?
 
 #### Programming Languages
 
-Go/Golang, Rust, Python, Javascript/NodeJS, C/C#/C++
+Go/Golang, Rust, Python, JavaScript, TypeScript, NodeJS, C/C#/C++
 
 #### Database
 
