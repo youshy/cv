@@ -29,6 +29,10 @@ Also I wrote first ever **[music video in Golang](https://www.youtube.com/watch?
 
 ## Employment
 
+**BP** (via **ECS Digital**) / Site Reliability Engineer 
+
+---
+
 **Barclays** (via **ECS Digital**) / Go Software Engineer
 
 *October 2020 - September 2021*
