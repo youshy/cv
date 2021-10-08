@@ -31,6 +31,8 @@ Also I wrote first ever **[music video in Golang](https://www.youtube.com/watch?
 
 **BP** (via **ECS Digital**) / Site Reliability Engineer 
 
+*October 2021 - Present*
+
 ---
 
 **Barclays** (via **ECS Digital**) / Go Software Engineer
