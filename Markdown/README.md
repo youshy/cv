@@ -39,6 +39,7 @@ Also I wrote first ever **[music video in Golang](https://www.youtube.com/watch?
 
 *October 2020 - September 2021*
 
+* Won **ECS Change Makers Award** & received praise from the client for the work on the project.
 * Built a set of highly secure **Go AWS lambdas** utilising **Amazon Lex & Connect** functionality ensuring **high availablity** to **9.4 million customers**.
 * **Lead developer** and a Key member of a team that scaled up availabiltiy **from 0 to up to 70k chat conversations per day** in **2 weeks time**.
 * Fully integrated with **DynamoDB**, leveraging some of the automation provided by the database, configured with **AWS Secrets Manager**, deployed over **AWS Service Catalog**.
