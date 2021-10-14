@@ -47,7 +47,7 @@ Also I wrote first ever **[music video in Golang](https://www.youtube.com/watch?
 * **Lead developer** and a Key member of a team that scaled up availabiltiy **from 0 to up to 70k chat conversations per day** in **2 weeks time**.
 * Fully integrated with **DynamoDB**, leveraging some of the automation provided by the database, configured with **AWS Secrets Manager**, deployed over **AWS Service Catalog**.
 * Helped refactoring existing lambdas and services to **decrease spending by 40%** on **AWS**.
-* Introduced **Sonarqube** across the Go stack to increase 
+* Introduced **Sonarqube** across the Go stack to increase test coverage
 * Designed packages to abstract the logic within the lambdas and expose a simple and well documented API.
 * Designed the architecture for multiple stacks and maintaned the releases within multiple projects.
 * Helped onboarding **multiple new joiners** and trained them in using **Go and AWS** services.
