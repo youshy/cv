@@ -33,6 +33,9 @@ Also I wrote first ever **[music video in Golang](https://www.youtube.com/watch?
 
 *October 2021 - Present*
 
+* Working on embedding **SRE Mentality** within organisation
+* Automating Toil with regards to frequent deployments
+
 ---
 
 **Barclays** (via **ECS Digital**) / Go Software Engineer
@@ -126,10 +129,6 @@ Go/Golang, Rust, Python, JavaScript, TypeScript, NodeJS, C/C#/C++
 #### Database
 
 PostgreSQL, MongoDB, MySQL, dGraph, Neo4J, AWS Suite (RDS, DynamoDB)
-
-#### Frameworks/Libraries
-
-gRPC, GraphQL, ffmpeg
 
 #### Infrastructure
 
