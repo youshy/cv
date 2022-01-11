@@ -15,8 +15,8 @@ Skilled in automation, tech leadership, agile methodologies, architecture and me
 Always full of ideas and unconventional approach to problems, but still being able to see all the options and judge accurately. 
 Willing to learn and improve, but at the same time to teach and help others.
 
+Go enthusiast and subject matter expert, open source contributor and trainer.
 Site Reliability Engineering Guild co-founder, lead & evangelist. 
-Go enthusiast, open source contributor and trainer.
 Experienced in DevOps and reliable CI/CD practices.
 Advocate for asynchronous teamwork and team morale over sticking to pre-fabricated templates.
 I believe in continuous improvement not only in code, always learning something new.
@@ -24,16 +24,19 @@ I believe in continuous improvement not only in code, always learning something 
 Avid fan of remote working and work based on trust, not on numbers. 
 I get stuff done (to put it mildly).
 
-Outside of work - music producer, guitarist, amateur bread maker and electronics afficionado.
+Outside of work - music producer, guitarist, composer, songwriter, amateur bread maker, cooking fan and electronics afficionado.
 Also I wrote first ever **[music video in Golang](https://www.youtube.com/watch?v=-_-2EpUqb9g)**. 
 
 ## Employment
 
 **BP** (via **ECS Digital**) / Site Reliability Engineer 
 
-*October 2021 - Present*
+*October 2021 - February 2022*
 
-* Working on embedding **SRE Mentality** within organisation
+* Designed, built and implemented **full Observability suite** within one of the key products
+* Created fully automated **monitoring dashboards** using **Honeycomb** and **Opentelemetry collectors**
+* Worked on embedding **SRE Mentality** within organisation
+* Mentored teams on various **SRE tenets**
 * Automating Toil with regards to frequent deployments
 
 ---
@@ -56,7 +59,7 @@ Also I wrote first ever **[music video in Golang](https://www.youtube.com/watch?
 
 **ECS Digital** / Go Software Engineer
 
-*July 2019 - Present*
+*July 2019 - February 2022*
 
 * Designed and built a **microservices suite** for data scrapping and analysis using **Go, Python, PostgresDB and graph databases (dGraph, neo4j)**.
 * Services were designed to work in tandem with **AI-powered analysis suite**.
