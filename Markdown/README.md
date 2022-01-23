@@ -16,7 +16,7 @@ Always full of ideas and unconventional approach to problems, but still being ab
 Willing to learn and improve, but at the same time to teach and help others.
 
 Go enthusiast and subject matter expert, open source contributor and trainer.
-Site Reliability Engineering Guild co-founder, lead & evangelist. 
+Site Reliability Engineering evangelist, going for full transparency both in communication and processes.
 Experienced in DevOps and reliable CI/CD practices.
 Advocate for asynchronous teamwork and team morale over sticking to pre-fabricated templates.
 I believe in continuous improvement not only in code, always learning something new.
