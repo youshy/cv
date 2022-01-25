@@ -93,7 +93,7 @@ Also I wrote first ever **[music video in Golang](https://www.youtube.com/watch?
 
 **Sparta Global** / Software Development Technical Trainer
 
-*September 2018 - January 2019*
+*August 2018 - January 2019*
 
 * Trained three cohorts of students working currently in **UK Home Office, Three Mobile** or **UK Ministry of Justice**.
 * Taught **web development**, **backend programming** using **Java, Ruby, Python** and **C#**.
