@@ -29,6 +29,12 @@ Also I wrote first ever **[music video in Golang](https://www.youtube.com/watch?
 
 ## Employment
 
+**Form3** / Senior Go Software Engineer
+
+*February 2022 - Currently*
+
+---
+
 **BP** (via **ECS Digital**) / Site Reliability Engineer 
 
 *October 2021 - February 2022*
