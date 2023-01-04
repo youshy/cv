@@ -175,6 +175,13 @@ GitHub Pages, Netlify, Heroku
 
 ## Open Source / Volunteer
 
+* **Speaker** - GopherCon UK 2022
+  * The Joy of Linters: Good Engineering Practices & Productivity Boosters. Link [here](https://www.youtube.com/watch?v=1h3c8r4Twlw)
+* **Speaker** - GoLab Firenze 2022
+  * Call Me Maybe - Communication Between Microservices (incl. a technical issue with the projector) Link [here](https://www.youtube.com/watch?v=cfrxxo5zc4w)
+* **Speaker** - ContainerDays Hamburg 2022
+  * Call Me Maybe - Communication Between Microservices. Link [here](https://www.youtube.com/watch?v=tEqBF-j8byQ)
+  * Cloud Confused - Differences Between Cloud Vendors. Link [here](https://www.youtube.com/watch?v=aaqpcZVJPNM)
 * **Speaker** - Devops Playground
   * Delivered a live-streamed workshop on building a ready-to-deploy, CRUD API in Go. Link [here](https://www.youtube.com/watch?v=JpznEfXcoe0&feature=youtu.be).
 * **Speaker** - Golang in London
