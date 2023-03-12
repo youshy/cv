@@ -30,6 +30,7 @@ Whether collaborating with colleagues or pursuing my diverse interests, I am com
 This flexibility has allowed me to develop unique problem-solving skills and make valuable contributions to a range of projects.
 
 Outside of work, I am a music producer, guitarist, composer, and songwriter, and I have a passion for exploring new sounds and creating original music.
+To add on top of that, I wrote the first ever **[music video in Golang](https://www.youtube.com/watch?v=-_-2EpUqb9g)**. 
 I'm also a break maker and an amateur cook; electronics afficionado; powerlifer and a beginner carperter.
 All of these experiences interpolate with each other, making me who I am.
 
