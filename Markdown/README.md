@@ -10,22 +10,29 @@ Linkedin: [**linkedin.com/in/arturkondas**](https://linkedin.com/in/arturkondas)
 
 ## Profile
 
-Senior Software Engineer with over five years of experience in software development, consulting and support services. 
-Skilled in automation, tech leadership, agile methodologies, architecture and mentoring.
-Always full of ideas and unconventional approach to problems, but still being able to see all the options and judge accurately. 
-Willing to learn and improve, but at the same time to teach and help others.
+As a Senior Software Engineer with over six years of experience, I bring a wealth of skills and experience to any team.
+I specialize in **tech leadership, multicloud and microservice-based architecture, automation, agile methodologies**, and **mentoring**.
+I have a unique approach to problem-solving, always full of ideas and eager to approach problems unconventionally.
+However, I am also able to evaluate all options and make informed decisions.
 
-Go enthusiast and subject matter expert, open source contributor and trainer.
-Site Reliability Engineering evangelist, going for full transparency both in communication and processes.
-Experienced in DevOps and reliable CI/CD practices.
-Advocate for asynchronous teamwork and team morale over sticking to pre-fabricated templates.
-I believe in continuous improvement not only in code, always learning something new.
+One of my core values is a **willingness to learn and improve**.
+At the same time, I am passionate about **teaching** and helping others.
+I have presented at various **tech conferences**, including **GopherCon UK** in London and **ContainerDays** in Hamburg, where I broke down complex technical concepts into easily digestible presentations that engaged and educated audiences of all levels.
+I enjoy sharing my knowledge and experience with others and am always seeking out new opportunities to contribute to the tech community.
 
-Avid fan of remote working and work based on trust, not on numbers. 
-I get stuff done (to put it mildly).
+Beyond work, I am committed to giving back by working with non-profit organizations like **Code First Girls** and **Colourintech**.
+Through my work with these organizations, I help **empower women and underrepresented groups** to break into the tech industry.
+I am passionate about creating a more **inclusive and diverse** industry and believe that everyone should have the opportunity to pursue a career in tech.
+I am also heavily involved in the **Open-Source** community, trying to help out as much as I can, whenever I can - I've contributed to projects led by **Microsoft** or **Chef**, to mention a few.
 
-Outside of work - music producer, guitarist, composer, songwriter, amateur bread maker, cooking fan and electronics afficionado.
-Also I wrote first ever **[music video in Golang](https://www.youtube.com/watch?v=-_-2EpUqb9g)**. 
+In addition to my experience in software development, I bring a **remote-first** mentality and strong communication skills to my work.
+Whether collaborating with colleagues or pursuing my diverse interests, I am comfortable working with people from different cultures and time zones.
+This flexibility has allowed me to develop unique problem-solving skills and make valuable contributions to a range of projects.
+
+Outside of work, I am a **music producer**, guitarist, composer, and songwriter, and I have a passion for exploring new sounds and creating original music.
+To add on top of that, I wrote the first ever **[music video in Golang](https://www.youtube.com/watch?v=-_-2EpUqb9g)**. 
+I'm also a break maker and an amateur cook; electronics afficionado; powerlifer and a beginner carperter.
+All of these experiences interpolate with each other, making me who I am.
 
 ## Employment
 
@@ -33,16 +40,20 @@ Also I wrote first ever **[music video in Golang](https://www.youtube.com/watch?
 
 *February 2022 - Currently*
 
+* Lead a team that is driving groundbreaking developments in **European-based payments**, leveraging **SEPA** systems to push the boundaries of what is possible.
+* Supporting the onboarding of new team members, ensuring that they are equipped with the knowledge and resources they need to thrive in their roles.
+* Implementing more robust **metrics** and **logging** systems that enable faster, more efficient resolution of **on-call** tasks and issues.
+* Forging a **strong presence** for Form3 within **Go** and other tech communities, driving engagement and sparking **industry-wide** excitement.
+
 ---
 
 **BP** (via **ECS Digital**) / Site Reliability Engineer 
 
 *October 2021 - February 2022*
 
-* Designed, built and implemented **full Observability suite** within one of the key products
+* Developed, from start to finish, a **game-changing Observability suite** within one of the key products
 * Created fully automated **monitoring dashboards** using **Honeycomb** and **Opentelemetry collectors**
-* Worked on embedding **SRE Mentality** within organisation
-* Mentored teams on various **SRE tenets**
+* Promoted an SRE Mentality throughout the organization and mentored teams on SRE tenets
 * Automating Toil with regards to frequent deployments
 
 ---
