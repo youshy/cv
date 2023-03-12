@@ -23,7 +23,7 @@ I enjoy sharing my knowledge and experience with others and am always seeking ou
 Beyond work, I am committed to giving back by working with non-profit organizations like Code First Girls and Colourintech.
 Through my work with these organizations, I help empower women and underrepresented groups to break into the tech industry.
 I am passionate about creating a more inclusive and diverse industry and believe that everyone should have the opportunity to pursue a career in tech.
-I am also heavily involved in the Open-Source community, trying to help out as much as I can, whenever I can.
+I am also heavily involved in the Open-Source community, trying to help out as much as I can, whenever I can - I've contributed to projects led by Microsoft or Chef, to mention a few.
 
 In addition to my experience in software development, I bring a remote-first mentality and strong communication skills to my work.
 Whether collaborating with colleagues or pursuing my diverse interests, I am comfortable working with people from different cultures and time zones.
