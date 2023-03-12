@@ -11,25 +11,25 @@ Linkedin: [**linkedin.com/in/arturkondas**](https://linkedin.com/in/arturkondas)
 ## Profile
 
 As a Senior Software Engineer with over six years of experience, I bring a wealth of skills and experience to any team.
-I specialize in tech leadership, multicloud and microservice-based architecture, automation, agile methodologies, and mentoring.
+I specialize in **tech leadership, multicloud and microservice-based architecture, automation, agile methodologies**, and **mentoring**.
 I have a unique approach to problem-solving, always full of ideas and eager to approach problems unconventionally.
 However, I am also able to evaluate all options and make informed decisions.
 
-One of my core values is a willingness to learn and improve.
-At the same time, I am passionate about teaching and helping others.
-I have presented at various tech conferences, including GopherCon UK in London and ContainerDays in Hamburg, where I broke down complex technical concepts into easily digestible presentations that engaged and educated audiences of all levels.
+One of my core values is a **willingness to learn and improve**.
+At the same time, I am passionate about **teaching** and helping others.
+I have presented at various **tech conferences**, including **GopherCon UK** in London and **ContainerDays** in Hamburg, where I broke down complex technical concepts into easily digestible presentations that engaged and educated audiences of all levels.
 I enjoy sharing my knowledge and experience with others and am always seeking out new opportunities to contribute to the tech community.
 
-Beyond work, I am committed to giving back by working with non-profit organizations like Code First Girls and Colourintech.
-Through my work with these organizations, I help empower women and underrepresented groups to break into the tech industry.
-I am passionate about creating a more inclusive and diverse industry and believe that everyone should have the opportunity to pursue a career in tech.
-I am also heavily involved in the Open-Source community, trying to help out as much as I can, whenever I can - I've contributed to projects led by Microsoft or Chef, to mention a few.
+Beyond work, I am committed to giving back by working with non-profit organizations like **Code First Girls** and **Colourintech**.
+Through my work with these organizations, I help **empower women and underrepresented groups** to break into the tech industry.
+I am passionate about creating a more **inclusive and diverse** industry and believe that everyone should have the opportunity to pursue a career in tech.
+I am also heavily involved in the **Open-Source** community, trying to help out as much as I can, whenever I can - I've contributed to projects led by **Microsoft** or **Chef**, to mention a few.
 
-In addition to my experience in software development, I bring a remote-first mentality and strong communication skills to my work.
+In addition to my experience in software development, I bring a **remote-first** mentality and strong communication skills to my work.
 Whether collaborating with colleagues or pursuing my diverse interests, I am comfortable working with people from different cultures and time zones.
 This flexibility has allowed me to develop unique problem-solving skills and make valuable contributions to a range of projects.
 
-Outside of work, I am a music producer, guitarist, composer, and songwriter, and I have a passion for exploring new sounds and creating original music.
+Outside of work, I am a **music producer**, guitarist, composer, and songwriter, and I have a passion for exploring new sounds and creating original music.
 To add on top of that, I wrote the first ever **[music video in Golang](https://www.youtube.com/watch?v=-_-2EpUqb9g)**. 
 I'm also a break maker and an amateur cook; electronics afficionado; powerlifer and a beginner carperter.
 All of these experiences interpolate with each other, making me who I am.
