@@ -198,6 +198,8 @@ GitHub Pages, Netlify, Heroku
 * **Speaker** - Golang in London
   * Delivered a live-streamed workshop on building small app to play music from the terminal. Link [here](https://www.youtube.com/watch?v=b2o2Of5a05o).
   * Delivered a live-streamed presentation on how to structure small Go programs. Link [here](https://akondas.com/talks/starters-guide-go/#/).
+* **Moderator** - Microsoft
+  * Moderated **Microsoft Tech Days: Learn Go on Azure** event as a Golang SME
 * **Guest Speaker** - ColorInTech
   * Delivered two workshops on annual ColorInTech events .
 * **Contributor** - Chef
