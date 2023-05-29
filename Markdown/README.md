@@ -10,7 +10,7 @@ Linkedin: [**linkedin.com/in/arturkondas**](https://linkedin.com/in/arturkondas)
 
 ## Profile
 
-As a Senior Software Engineer with over six years of experience, I bring a wealth of skills and experience to any team.
+As a Lead Software Engineer with over six years of experience, I bring a wealth of skills and experience to any team.
 I specialize in **tech leadership, multicloud and microservice-based architecture, automation, agile methodologies**, and **mentoring**.
 I have a unique approach to problem-solving, always full of ideas and eager to approach problems unconventionally.
 However, I am also able to evaluate all options and make informed decisions.
