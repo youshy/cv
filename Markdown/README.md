@@ -36,9 +36,15 @@ All of these experiences interpolate with each other, making me who I am.
 
 ## Employment
 
-**Form3** / Senior Go Software Engineer
+**Form3** 
 
-*February 2022 - Currently*
+/ Lead Software Engineer
+
+*May 2023 - Present*
+
+/ Senior Go Software Engineer
+
+*February 2022 - May 2023*
 
 * Lead a team that is driving groundbreaking developments in **European-based payments**, leveraging **SEPA** systems to push the boundaries of what is possible.
 * Supporting the onboarding of new team members, ensuring that they are equipped with the knowledge and resources they need to thrive in their roles.
