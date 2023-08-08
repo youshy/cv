@@ -192,6 +192,8 @@ GitHub Pages, Netlify, Heroku
 
 ## Open Source / Volunteer
 
+* **Speaker** - DevBcn Barcelona 2023
+  * Need For Speed: Scaling Go Microservices 
 * **Speaker** - GopherCon UK 2022
   * The Joy of Linters: Good Engineering Practices & Productivity Boosters. Link [here](https://www.youtube.com/watch?v=1h3c8r4Twlw)
 * **Speaker** - GoLab Firenze 2022
