@@ -192,6 +192,10 @@ GitHub Pages, Netlify, Heroku
 
 ## Open Source / Volunteer
 
+* **Speaker** - ContainerDays Hamburg 2023
+  * Need For Speed: Scaling Go Microservices 
+* **Speaker** - GopherCon UK 2023
+  * The shimmy to the left: why security is coming for engineers
 * **Speaker** - DevBcn Barcelona 2023
   * Need For Speed: Scaling Go Microservices 
 * **Speaker** - GopherCon UK 2022
