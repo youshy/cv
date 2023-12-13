@@ -40,9 +40,9 @@ All of these experiences interpolate with each other, making me who I am.
 
 / Lead Software Engineer
 
-* Lead a team that is driving groundbreaking developments in **European-based payments**, leveraging **SEPA** systems to push the boundaries of what is possible.
-
 *May 2023 - Present*
+
+* Leading a team, driving groundbreaking developments in **European-based payments**, leveraging **SEPA** systems to push the boundaries of what is possible.
 
 / Senior Go Software Engineer
 
