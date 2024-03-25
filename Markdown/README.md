@@ -17,7 +17,7 @@ However, I am also able to evaluate all options and make informed decisions.
 
 One of my core values is a **willingness to learn and improve**.
 At the same time, I am passionate about **teaching** and helping others.
-I have presented at various **tech conferences**, including **GopherCon UK** in London and **ContainerDays** in Hamburg, where I broke down complex technical concepts into easily digestible presentations that engaged and educated audiences of all levels.
+I have presented at various **tech conferences**, including **GopherCon UK** in **London**, **ContainerDays** in **Hamburg** and **DevBCN** in **Barcelona** where I broke down complex technical concepts into easily digestible presentations that engaged and educated audiences of all levels.
 I enjoy sharing my knowledge and experience with others and am always seeking out new opportunities to contribute to the tech community.
 
 Beyond work, I am committed to giving back by working with non-profit organizations like **Code First Girls** and **Colourintech**.
@@ -43,11 +43,15 @@ All of these experiences interpolate with each other, making me who I am.
 *May 2023 - Present*
 
 * Leading a team, driving groundbreaking developments in **European-based payments**, leveraging **SEPA** systems to push the boundaries of what is possible.
+* Delivered a biggest in history **payment schema messages format update**, working alongside **European Banking Authority**.
+* Re-designed internal processes to **make development** of new features **swift and frictionless**.
 
 / Senior Go Software Engineer
 
 *February 2022 - May 2023*
 
+* Worked on **cutting-edge** payment gateways processing **millions** of payments monthly.
+* Introdced improvements to services which lead to **massive speed improvements** and **costs savings** across cloud providers.
 * Supporting the onboarding of new team members, ensuring that they are equipped with the knowledge and resources they need to thrive in their roles.
 * Implementing more robust **metrics** and **logging** systems that enable faster, more efficient resolution of **on-call** tasks and issues.
 * Forging a **strong presence** for Form3 within **Go** and other tech communities, driving engagement and sparking **industry-wide** excitement.
