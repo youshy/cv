@@ -187,6 +187,7 @@ GitHub Pages, Netlify, Heroku
 
 ## Certfications
 
+* **Systems Programming for Linux Containers** - man7.org - September 2022
 * [**Gremlin Chaos Engineering Practicioner**](https://www.credential.net/56e13180-8fcc-4eb1-897f-f8f43a0f5a44#gs.a9u5ow) - Gremlin - July 2021
 * [**Certified Kubernetes Application Developer**](https://www.credly.com/badges/2dc11568-4c15-4610-8912-17d037418304?source=linked_in_profile) - The Linux Foundation - July 2021
 * **Site Reliability Engineering Foundation** - DevOps Institute - May 2021
