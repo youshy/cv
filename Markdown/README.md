@@ -10,7 +10,7 @@ Linkedin: [**linkedin.com/in/arturkondas**](https://linkedin.com/in/arturkondas)
 
 ## Profile
 
-As a Lead Software Engineer with over seven years of experience in IT, I bring a wealth of skills and experience to any team.
+As a Lead Software Engineer with over eight years of experience in IT, I bring a wealth of skills and experience to any team.
 I specialize in **tech leadership, multicloud and microservice-based architecture, automation, agile methodologies**, and **mentoring**.
 I have a unique approach to problem-solving, always full of ideas and eager to approach problems unconventionally.
 However, I am also able to evaluate all options and make informed decisions.
@@ -45,6 +45,7 @@ All of these experiences interpolate with each other, making me who I am.
 * Leading a team, driving groundbreaking developments in **European-based payments**, leveraging **SEPA** systems to push the boundaries of what is possible.
 * Delivered a biggest in history **payment schema messages format update**, working alongside **European Banking Authority**.
 * Re-designed internal processes to **make development** of new features **swift and frictionless**.
+* Building **high performance teams**, not high performace units. We **win as a team**, we lose as one as well.
 
 / Senior Go Software Engineer
 
