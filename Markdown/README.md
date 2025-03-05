@@ -36,11 +36,17 @@ All of these experiences interpolate with each other, making me who I am.
 
 ## Employment
 
+**SpotOn** / Senior Software Engineer II / Tech Lead
+
+*March 2025 - Present*
+
+---
+
 **Form3** 
 
 / Lead Software Engineer
 
-*May 2023 - Present*
+*May 2023 - March 2025*
 
 * Leading a team, driving groundbreaking developments in **European-based payments**, leveraging **SEPA** systems to push the boundaries of what is possible.
 * Delivered a biggest in history **payment schema messages format update**, working alongside **European Banking Authority**.
