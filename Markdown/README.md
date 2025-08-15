@@ -36,6 +36,15 @@ All of these experiences interpolate with each other, making me who I am.
 
 ## Employment
 
+**BB Services** / CEO / Lead Consultant / Creator
+
+*January 2025 - Present*
+
+Bespoke, tailor-made consulting. Everything from code, to content and everything in between. 
+Building teams, building culture, building profitable businesses.
+
+---
+
 **SpotOn** / Senior Software Engineer II / Tech Lead
 
 *March 2025 - Present*
