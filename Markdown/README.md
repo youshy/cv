@@ -10,10 +10,13 @@ Linkedin: [**linkedin.com/in/arturkondas**](https://linkedin.com/in/arturkondas)
 
 ## Profile
 
-As a Lead Software Engineer with over eight years of experience in IT, I bring a wealth of skills and experience to any team.
-I specialize in **tech leadership, multicloud and microservice-based architecture, automation, agile methodologies**, and **mentoring**.
+As a Lead Software Engineer with over nine years of experience in IT, I bring a wealth of skills and experience to any team.
+I specialize in **AI tech, tech leadership, multicloud and microservice-based architecture, automation, agile methodologies**, and **mentoring**.
 I have a unique approach to problem-solving, always full of ideas and eager to approach problems unconventionally.
 However, I am also able to evaluate all options and make informed decisions.
+
+Many have worked with AI technologies, but few have figured a way to deliver true value.
+I don't follow trends, I follow things that make stuff work. I have a few frameworks that I use to create products that serves customers and the stakeholders.
 
 One of my core values is a **willingness to learn and improve**.
 At the same time, I am passionate about **teaching** and helping others.
@@ -43,11 +46,19 @@ All of these experiences interpolate with each other, making me who I am.
 Bespoke, tailor-made consulting. Everything from code, to content and everything in between. 
 Building teams, building culture, building profitable businesses.
 
+* Built Brudne Brzmienie, a social media with with an audience of over 50k people in Polish internet
+* Interviewed legends like Glenn Hughes (of Deep Purple and Black Sabbath Fame), Andy Timmons, Myslovitz and many more
+* Created a frarework for hitting a stable >300k vievership monthly on various platforms
+
 ---
 
 **SpotOn** / Senior Software Engineer II / Tech Lead
 
-*March 2025 - Present*
+*March 2025 - *April 2026*
+
+* Built a framework for AI agentic workflows that shortened sprint delivery time from over 6 weeks to below 2 weeks
+* Documented undocumentable (legacy services without any documentation or API reference)
+* Build two teams to work as teams, not as units
 
 ---
 
