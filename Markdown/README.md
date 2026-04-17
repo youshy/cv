@@ -33,7 +33,7 @@ Outside of engineering, I produce music, build audio software, and write — all
 Building products, teams, and revenue engines from scratch. BB Services is my vehicle for hands-on leadership across technology and creative ventures.
 
 * Architecting and developing **VST audio plugins** for guitar — real-time DSP software requiring low-latency C++ and signal processing expertise
-* Built and scaled **Brudne Brzmienie**, a media brand reaching **50k+ audience** with a repeatable content framework driving **300k+ monthly views** across platforms
+* Built and scaled **Brudne Brzmienie**, a media brand reaching **80k+ audience** with a repeatable content framework driving **400k+ monthly views** across all platforms
 * Advising early-stage companies on **engineering team structure**, **technical strategy**, and **AI adoption**
 * Secured and delivered interviews with internationally recognized artists (Glenn Hughes, Andy Timmons, Myslovitz), demonstrating stakeholder management at scale
 
@@ -100,9 +100,9 @@ Building products, teams, and revenue engines from scratch. BB Services is my ve
 
 ---
 
-**Earlier Career** — *2016 - 2019*
+**Earlier Career** — *2013 - 2019*
 
-Built foundational expertise across the full stack: **video processing & AI integration** at Calipsa (also served as Scrum Master, introducing Agile practices company-wide), **technical training** at Sparta Global where I trained three cohorts now placed at UK Home Office, Three Mobile, and UK Ministry of Justice, and **application/infrastructure work** at ABB where I automated a 4-hour validation process down to 5 minutes.
+Built foundational expertise across the full stack: **video processing & AI integration** at Calipsa (also served as Scrum Master, introducing Agile practices company-wide), **technical training** at Sparta Global where I trained three cohorts now placed at UK Home Office, Three Mobile, and UK Ministry of Justice, and **application/infrastructure work** at ABB where I automated a 4-hour validation process down to 5 minutes. I've also worked as a customer service specialist in various outlets.
 
 ## Skills
 
