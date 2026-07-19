@@ -2,9 +2,9 @@
 
 ### Contact
 
-Personal Site: [**akondas.com**](https://akondas.com)
+Personal Site: [**arturkondas.com**](https://arturkondas.com)
 
-Email: [**work@akondas.com**](mailto:work@akondas.com?subject=[GitHub]%20Resume)
+Email: [**hello@arturkondas.com**](mailto:work@arturkondas.com?subject=[GitHub]%20Resume%20Let's%20Work!)
 
 Linkedin: [**linkedin.com/in/arturkondas**](https://linkedin.com/in/arturkondas)
 
@@ -30,10 +30,10 @@ I speak at international conferences — GopherCon UK, ContainerDays, DevBCN —
 
 Building products, teams, and revenue engines from scratch. BB Services is my vehicle for hands-on leadership across technology and creative ventures.
 
-* Architecting and developing **VST audio plugins** for guitar — real-time DSP software requiring low-latency C++ and signal processing expertise
-* Built and scaled **Brudne Brzmienie**, a media brand reaching **80k+ audience** with a repeatable content framework driving **400k+ monthly views** across all platforms
-* Advising early-stage companies on **engineering team structure**, **technical strategy**, and **AI adoption**
-* Secured and delivered interviews with internationally recognized artists (Glenn Hughes, Andy Timmons, Myslovitz), demonstrating stakeholder management at scale
+- Architecting and developing **VST audio plugins** for guitar — real-time DSP software requiring low-latency C++ and signal processing expertise
+- Built and scaled **Brudne Brzmienie**, a media brand reaching **80k+ audience** with a repeatable content framework driving **400k+ monthly views** across all platforms
+- Advising early-stage companies on **engineering team structure**, **technical strategy**, and **AI adoption**
+- Secured and delivered interviews with internationally recognized artists (Glenn Hughes, Andy Timmons, Myslovitz), demonstrating stakeholder management at scale
 
 / **Tonika** — practice app for musicians *(solo build)*
 
@@ -41,10 +41,10 @@ Building products, teams, and revenue engines from scratch. BB Services is my ve
 
 Conceived, designed, built, and shipped a real-time practice companion for musicians — live pitch detection, scale drills, ear training, progress tracking — solo, end to end.
 
-* Grew to **330 users in 8 weeks with zero paid acquisition** — steady week-over-week organic growth and **~60% two-week retention**, well above the 10–20% typical of consumer apps
-* Shipped a single **TypeScript** codebase to **web, iOS, and Android** via Capacitor — real-time audio DSP running low-latency pitch detection inside a mobile WKWebView
-* Stood up the entire product stack solo: **Supabase** (auth + data), **live subscriptions** via **Stripe + RevenueCat** (**10 paying customers**), **PostHog** funnels & retention analytics, PWA, CI/CD on Vercel
-* Wrote a custom in-app performance profiler to trace and kill an iOS audio-session freeze that browser DevTools couldn't reach
+- Grew to **330 users in 8 weeks with zero paid acquisition** — steady week-over-week organic growth and **~60% two-week retention**, well above the 10–20% typical of consumer apps
+- Shipped a single **TypeScript** codebase to **web, iOS, and Android** via Capacitor — real-time audio DSP running low-latency pitch detection inside a mobile WKWebView
+- Stood up the entire product stack solo: **Supabase** (auth + data), **live subscriptions** via **Stripe + RevenueCat** (**10 paying customers**), **PostHog** funnels & retention analytics, PWA, CI/CD on Vercel
+- Wrote a custom in-app performance profiler to trace and kill an iOS audio-session freeze that browser DevTools couldn't reach
 
 ---
 
@@ -52,9 +52,9 @@ Conceived, designed, built, and shipped a real-time practice companion for music
 
 *March 2025 - April 2026*
 
-* Built an **AI agentic workflow framework** that compressed sprint delivery from **6+ weeks to under 2 weeks** — a 70% reduction in cycle time
-* Reverse-engineered and documented legacy services with **zero existing documentation**, unblocking multiple downstream teams
-* Transformed two groups of individual contributors into **cohesive, self-directing teams** with clear ownership and delivery accountability
+- Built an **AI agentic workflow framework** that compressed sprint delivery from **6+ weeks to under 2 weeks** — a 70% reduction in cycle time
+- Reverse-engineered and documented legacy services with **zero existing documentation**, unblocking multiple downstream teams
+- Transformed two groups of individual contributors into **cohesive, self-directing teams** with clear ownership and delivery accountability
 
 ---
 
@@ -64,19 +64,19 @@ Conceived, designed, built, and shipped a real-time practice companion for music
 
 *May 2023 - March 2025*
 
-* Led a team delivering **next-generation European payment infrastructure** on **SEPA** systems
-* Shipped the **largest payment schema message format update in company history**, coordinating directly with the **European Banking Authority**
-* Re-architected internal development processes, eliminating bottlenecks that had stalled feature delivery for months
-* Established a team culture centered on **collective ownership** — shared on-call, shared wins, shared accountability
+- Led a team delivering **next-generation European payment infrastructure** on **SEPA** systems
+- Shipped the **largest payment schema message format update in company history**, coordinating directly with the **European Banking Authority**
+- Re-architected internal development processes, eliminating bottlenecks that had stalled feature delivery for months
+- Established a team culture centered on **collective ownership** — shared on-call, shared wins, shared accountability
 
 / Senior Go Software Engineer
 
 *February 2022 - May 2023*
 
-* Engineered payment gateways processing **millions of transactions monthly** with strict latency and reliability requirements
-* Delivered infrastructure optimizations that produced **measurable cost reductions** across cloud providers
-* Designed and implemented **observability systems** (metrics, structured logging) that halved on-call resolution times
-* Became a visible representative of Form3 in the **Go community** through conference talks and meetup leadership
+- Engineered payment gateways processing **millions of transactions monthly** with strict latency and reliability requirements
+- Delivered infrastructure optimizations that produced **measurable cost reductions** across cloud providers
+- Designed and implemented **observability systems** (metrics, structured logging) that halved on-call resolution times
+- Became a visible representative of Form3 in the **Go community** through conference talks and meetup leadership
 
 ---
 
@@ -84,8 +84,8 @@ Conceived, designed, built, and shipped a real-time practice companion for music
 
 *October 2021 - February 2022*
 
-* Designed and delivered an **end-to-end observability platform** using **Honeycomb** and **OpenTelemetry** for a key product line
-* Drove **SRE culture adoption** across engineering teams — on-call practices, SLI/SLO frameworks, toil reduction
+- Designed and delivered an **end-to-end observability platform** using **Honeycomb** and **OpenTelemetry** for a key product line
+- Drove **SRE culture adoption** across engineering teams — on-call practices, SLI/SLO frameworks, toil reduction
 
 ---
 
@@ -93,9 +93,9 @@ Conceived, designed, built, and shipped a real-time practice companion for music
 
 *October 2020 - September 2021*
 
-* **Lead developer** on a system that scaled from **zero to 70,000 chat conversations/day in two weeks**, serving **9.4 million customers**
-* Reduced AWS infrastructure costs by **40%** through service re-architecture
-* Won the **ECS Change Makers Award** for delivery and client impact
+- **Lead developer** on a system that scaled from **zero to 70,000 chat conversations/day in two weeks**, serving **9.4 million customers**
+- Reduced AWS infrastructure costs by **40%** through service re-architecture
+- Won the **ECS Change Makers Award** for delivery and client impact
 
 ---
 
@@ -103,9 +103,9 @@ Conceived, designed, built, and shipped a real-time practice companion for music
 
 *July 2019 - February 2022*
 
-* Rebuilt a data discovery platform from a 12-hour monolith batch process into a **microservices suite completing in 10 minutes**
-* Designed **AI-integrated analysis pipelines** using Go, Python, and graph databases (dGraph, Neo4j)
-* Led the internal **SRE Guild** and onboarded/mentored engineers across the company
+- Rebuilt a data discovery platform from a 12-hour monolith batch process into a **microservices suite completing in 10 minutes**
+- Designed **AI-integrated analysis pipelines** using Go, Python, and graph databases (dGraph, Neo4j)
+- Led the internal **SRE Guild** and onboarded/mentored engineers across the company
 
 ---
 
@@ -133,29 +133,29 @@ Engineering Team Leadership, Agile/Scrum, SRE, Observability, CI/CD (GitHub Acti
 
 ## Certifications
 
-* **Systems Programming for Linux Containers** - man7.org - September 2022
-* [**Certified Kubernetes Application Developer**](https://www.credly.com/badges/2dc11568-4c15-4610-8912-17d037418304?source=linked_in_profile) - The Linux Foundation - July 2021
-* **Site Reliability Engineering Foundation** - DevOps Institute - May 2021
-* [**AWS Certified Database - Specialty**](https://www.credly.com/badges/ea645df4-d77b-48c6-8e85-421019b7a8b9?source=linked_in_profile) - Amazon - March 2021
-* [**AWS Certified Developer - Associate**](https://www.credly.com/badges/25efac9e-2738-490c-819f-a5c1b8e666cc?source=linked_in_profile) - Amazon - October 2020
-* [**ITIL Foundation**](https://candidate.peoplecert.org/ReportsLink.aspx?argType=1&id=B12FFEC9C5673EA26D6735D1368E40B743E8F935F6197FD90CBBA25FA073B912627ACFD94CE8C0C1) - Conlea - June 2017
+- **Systems Programming for Linux Containers** - man7.org - September 2022
+- [**Certified Kubernetes Application Developer**](https://www.credly.com/badges/2dc11568-4c15-4610-8912-17d037418304?source=linked_in_profile) - The Linux Foundation - July 2021
+- **Site Reliability Engineering Foundation** - DevOps Institute - May 2021
+- [**AWS Certified Database - Specialty**](https://www.credly.com/badges/ea645df4-d77b-48c6-8e85-421019b7a8b9?source=linked_in_profile) - Amazon - March 2021
+- [**AWS Certified Developer - Associate**](https://www.credly.com/badges/25efac9e-2738-490c-819f-a5c1b8e666cc?source=linked_in_profile) - Amazon - October 2020
+- [**ITIL Foundation**](https://candidate.peoplecert.org/ReportsLink.aspx?argType=1&id=B12FFEC9C5673EA26D6735D1368E40B743E8F935F6197FD90CBBA25FA073B912627ACFD94CE8C0C1) - Conlea - June 2017
 
 ## Speaking & Thought Leadership
 
-* **ContainerDays Hamburg 2023** — Need For Speed: Scaling Go Microservices
-* **GopherCon UK 2023** — The Shimmy to the Left: Why Security is Coming for Engineers
-* **DevBcn Barcelona 2023** — Need For Speed: Scaling Go Microservices
-* **GopherCon UK 2022** — [The Joy of Linters](https://www.youtube.com/watch?v=1h3c8r4Twlw)
-* **GoLab Firenze 2022** — [Call Me Maybe: Communication Between Microservices](https://www.youtube.com/watch?v=cfrxxo5zc4w)
-* **ContainerDays Hamburg 2022** — [Call Me Maybe](https://www.youtube.com/watch?v=tEqBF-j8byQ) / [Cloud Confused](https://www.youtube.com/watch?v=aaqpcZVJPNM)
-* **Microsoft Tech Days** — Moderated Learn Go on Azure as a Golang SME
-* **Devops Playground** — [Live: Building a CRUD API in Go](https://www.youtube.com/watch?v=JpznEfXcoe0)
-* **Golang in London** — [Terminal Music Player](https://www.youtube.com/watch?v=b2o2Of5a05o) / [Structuring Go Programs](https://akondas.com/talks/starters-guide-go/#/)
+- **ContainerDays Hamburg 2023** — Need For Speed: Scaling Go Microservices
+- **GopherCon UK 2023** — The Shimmy to the Left: Why Security is Coming for Engineers
+- **DevBcn Barcelona 2023** — Need For Speed: Scaling Go Microservices
+- **GopherCon UK 2022** — [The Joy of Linters](https://www.youtube.com/watch?v=1h3c8r4Twlw)
+- **GoLab Firenze 2022** — [Call Me Maybe: Communication Between Microservices](https://www.youtube.com/watch?v=cfrxxo5zc4w)
+- **ContainerDays Hamburg 2022** — [Call Me Maybe](https://www.youtube.com/watch?v=tEqBF-j8byQ) / [Cloud Confused](https://www.youtube.com/watch?v=aaqpcZVJPNM)
+- **Microsoft Tech Days** — Moderated Learn Go on Azure as a Golang SME
+- **Devops Playground** — [Live: Building a CRUD API in Go](https://www.youtube.com/watch?v=JpznEfXcoe0)
+- **Golang in London** — [Terminal Music Player](https://www.youtube.com/watch?v=b2o2Of5a05o) / [Structuring Go Programs](https://akondas.com/talks/starters-guide-go/#/)
 
 ## Open Source & Community
 
-* **Contributor** — Grafana Labs ([v7.0.0 beta](https://github.com/grafana/grafana/releases/tag/v7.0.0-beta1)), Chef ([golang cookbook 5.2.0](https://github.com/sous-chefs/golang/releases/tag/5.2.0)), [Rod](https://github.com/ysmood/rod) (Chrome DevTools driver), VS Code Polish translation
-* **Technical Trainer** — Code First Girls (two editions), Codebar, ColorInTech (two annual workshops)
+- **Contributor** — Grafana Labs ([v7.0.0 beta](https://github.com/grafana/grafana/releases/tag/v7.0.0-beta1)), Chef ([golang cookbook 5.2.0](https://github.com/sous-chefs/golang/releases/tag/5.2.0)), [Rod](https://github.com/ysmood/rod) (Chrome DevTools driver), VS Code Polish translation
+- **Technical Trainer** — Code First Girls (two editions), Codebar, ColorInTech (two annual workshops)
 
 ## Education
 
