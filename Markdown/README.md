@@ -10,19 +10,17 @@ Linkedin: [**linkedin.com/in/arturkondas**](https://linkedin.com/in/arturkondas)
 
 ## Profile
 
-I build teams and products from the ground up — and I make sure they scale.
+I build products end to end — from the first commit to paying users — and I've done it both inside high-growth companies and solo, as a founder.
 
-Over ten years in tech, I've moved from writing code to leading engineering organizations, designing systems architecture, and shipping AI-powered products that deliver measurable business outcomes. My career has been a deliberate path through every layer of the stack — infrastructure, backend, platform, SRE, full-stack — because I believe the best technical leaders are the ones who've done the work.
+Over a decade in tech, I've worked every layer of the stack: infrastructure, backend, platform, SRE, full-stack, real-time audio. I've led engineering teams through hypergrowth and shipped payment systems processing millions of transactions monthly alongside the European Banking Authority — *and* I've sat alone at 2am wiring up Stripe, chasing a retention curve, and debugging an iOS audio freeze on a product only I built. I'm equally comfortable in both chairs, and I wear whatever hat the moment needs: engineer, architect, product owner, growth, design, hiring.
 
 **What I do best:**
 
-- **Turn AI into a competitive advantage.** Not proofs of concept — shipped products. I've built agentic AI frameworks that cut delivery cycles by 70% and created systems where AI compounds engineering output rather than generating noise.
-- **Build high-performance teams, not headcount.** I hire, mentor, and retain engineers who own their domain. I've built teams from zero, restructured underperforming ones, and scaled organizations through hypergrowth — always optimizing for autonomy, ownership, and speed.
-- **Architect for scale under real constraints.** I've designed systems processing millions of transactions monthly, led payments infrastructure work alongside the European Banking Authority, and made hard calls on build-vs-buy with real money on the line.
+- **Ship products solo, all the way to revenue.** My latest, Tonika, went from zero to **330 organic users and paying subscribers in 8 weeks** — built alone across web, iOS, and Android, with live payments, analytics, and ~60% two-week retention. I don't do proofs of concept. I ship things people pay for.
+- **Go deep where the engineering is hard.** Payments infrastructure at scale, real-time DSP in C++, agentic AI frameworks that cut delivery cycles by 70%. I've done the work at every level, which is why I can lead it.
+- **Build teams and turn AI into leverage — when the moment calls for it.** I've built teams from zero, restructured underperforming ones, and scaled organizations through hypergrowth, always optimizing for autonomy, ownership, and speed.
 
-I'm a frequent speaker at international conferences — GopherCon UK, ContainerDays, DevBCN — where I break down complex systems thinking for technical audiences. I contribute to open source, train underrepresented groups through Code First Girls and Colourintech, and believe that a strong engineering culture is the most durable moat a company can have.
-
-Outside of engineering, I produce music, build audio software, and write — all of which sharpen the same muscle: creating something from nothing and shipping it.
+I speak at international conferences — GopherCon UK, ContainerDays, DevBCN — contribute to open source, and train underrepresented groups through Code First Girls and Colourintech. Outside pure engineering I run a media brand reaching **80k+** and producing **400k+ monthly views**, produce music, and build audio software — different hats, same instinct: make something from nothing and ship it.
 
 ## Employment
 
@@ -36,6 +34,17 @@ Building products, teams, and revenue engines from scratch. BB Services is my ve
 * Built and scaled **Brudne Brzmienie**, a media brand reaching **80k+ audience** with a repeatable content framework driving **400k+ monthly views** across all platforms
 * Advising early-stage companies on **engineering team structure**, **technical strategy**, and **AI adoption**
 * Secured and delivered interviews with internationally recognized artists (Glenn Hughes, Andy Timmons, Myslovitz), demonstrating stakeholder management at scale
+
+/ **Tonika** — practice app for musicians *(solo build)*
+
+*May 2026 - Present*
+
+Conceived, designed, built, and shipped a real-time practice companion for musicians — live pitch detection, scale drills, ear training, progress tracking — solo, end to end.
+
+* Grew to **330 users in 8 weeks with zero paid acquisition** — steady week-over-week organic growth and **~60% two-week retention**, well above the 10–20% typical of consumer apps
+* Shipped a single **TypeScript** codebase to **web, iOS, and Android** via Capacitor — real-time audio DSP running low-latency pitch detection inside a mobile WKWebView
+* Stood up the entire product stack solo: **Supabase** (auth + data), **live subscriptions** via **Stripe + RevenueCat** (**10 paying customers**), **PostHog** funnels & retention analytics, PWA, CI/CD on Vercel
+* Wrote a custom in-app performance profiler to trace and kill an iOS audio-session freeze that browser DevTools couldn't reach
 
 ---
 
